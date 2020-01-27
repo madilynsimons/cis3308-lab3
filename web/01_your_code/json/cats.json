@@ -1,0 +1,20 @@
+[
+    {
+        "color": "white",
+        "image": "pics/pic1.png",
+        "age": "6 months",
+        "price": "25"
+    },
+    {
+        "color": "brown",
+        "image": "pics/pic5.png",
+        "age": "6 weeks",
+        "price": "50"
+    },
+    {
+        "color": "white",
+        "image": "pics/pic7.png",
+        "age": "1 week",
+        "price": "100"
+    }
+]
